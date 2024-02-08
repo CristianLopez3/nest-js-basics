@@ -9,4 +9,4 @@ Content-Type: application/json
 }
 
 # Get a messages
-http://localhost:3001/messages/1
+http://localhost:3001/messages/1 

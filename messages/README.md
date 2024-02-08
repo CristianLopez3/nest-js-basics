@@ -12,3 +12,11 @@
 ```ts
   @Controller('messages')
 ```
+
+
+### Missing libraries
+
+```npm
+  npm install class-validator 
+  npm install class-transformer
+```
